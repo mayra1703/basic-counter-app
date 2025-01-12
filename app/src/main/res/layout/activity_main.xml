@@ -25,6 +25,7 @@
         android:textColor="@color/steal"
         android:textSize="180sp"/>
 
+
     <Button
         android:id="@+id/btnIncrease"
         android:layout_width="wrap_content"
